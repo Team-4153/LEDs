@@ -1,0 +1,14 @@
+Info:
+The left set of pins is the input side, and the right set is the output side. If you plug the data pin coming off an arduino, roborio, etc... into the output side they will not turn on.
+On either of the sets of pins from left to right it goes Ground, Data, 5V+ with 5V+ being the square pin.
+To operate at a consistent full white brightness, the WS2812Bs require 5V 2.3A for 48 LEDs on the PCB with one LED drawing 48mA.
+The LEDs connected to the 5V 2A connection on the CTRE VRM should be fine but if you add any more LEDs to your robot it is STRONGLY reccommended to give it more amps.
+
+Libraries:
+As long as it works with WS2812B LEDs it should be fine.
+LabView: WPI Robotics Library/IO/PWM
+Java: edu.wpi.first.wpilibj.AddressableLED and edu.wpi.first.wpilibj.AddressableLEDBuffer  see our 2022 robot github for an example in LEDSubsystem.
+Arduino: FastLED
+
+If you would like any extra help ask in the FRC NM discord (https://discord.gg/QrBGTVpCMP)
+For code examples written in arduino visit the Team-4153 github (https://github.com/Team-4153)
