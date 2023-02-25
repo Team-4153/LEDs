@@ -1,0 +1,1457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>Y:\PCB\Led Zia\Led Zia.kicad_sch</source>
+    <date>8/18/2022 5:53:15 PM</date>
+    <tool>Eeschema (6.0.5)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Led Zia.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>25LEDs.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>23LEDs.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>Conn_01x03</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led Zia.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>708ead10-ee32-4050-85e6-660bdbae9913</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x03</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Led Zia.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>413ad8f1-c768-4e2c-9236-ff545c8d88c2</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>45ec74ca-d106-45e1-8e24-6685f5b6ee07</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>76f02265-9071-4cff-b17c-1a5f20bce78c</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>75c28a7b-ffa8-4430-894f-0381e98dc259</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>84b1e744-6134-4141-8ff0-686e8da9c409</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>2e494e77-60c4-4ed9-90ce-a9155032ce4a</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>bc607b40-dd04-4fcd-9fe3-49f134c8996c</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>59af7fe7-1f4b-4e43-a6da-556e3b260de2</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>dace17e0-84da-4a1a-a0e0-0485e1301601</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>9dc88f66-dec8-4333-b7fb-0272a8d66b95</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>63bd0beb-1fa5-4265-858e-a2260cf40fb8</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>4497cb4c-e673-4355-8cb9-a94b2d05859b</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>3ab2274b-a62d-4c56-a378-8069375eae3f</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>095d16e5-279b-42e8-8757-261bc8c9fedb</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>6a850434-4a3d-4a2a-9b41-6570cb6ca433</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>99a1b12c-bc9c-47e1-b590-c50b1a142e41</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>6f7188d7-24d6-48f3-bd8e-a8a3fb1c7b9f</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>abaecf33-ffbe-4bb2-afbe-6e9f36367a65</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>e01cc840-40db-4267-9ec5-f6e12a8bd942</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>c0992206-7b7f-459e-a949-db6c1f14184d</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>9a0c3ccf-0bae-49a7-8340-01a3e2983fa0</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>dc327d24-734a-460c-8b32-a69bd1cff96b</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>f61932fe-29a6-4891-9df2-b23db7f199c1</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>748250e8-8b7e-4068-93a6-9382b7f479ae</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>be0ca9bc-cb1b-4ace-b3bb-56189ca66185</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>e1c757d0-d128-44cd-b733-d3e2a7d3c5a2</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>e2089dca-56e4-4e99-a1a5-10bae8ebf905</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>8b4ec764-75b8-4dce-9e6a-1921293637d4</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>eb799d6e-043f-4b62-8442-216751d98a82</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>ce0a8f42-def0-464b-b91e-10a30fe1779d</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>8b2e1f5b-ca8d-484c-a4be-968321a75362</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>cc5112d4-84ba-4d97-ad2d-1af41a3ba847</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>3786c409-2ac3-473c-b215-6b9e300100b1</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>ff793152-1260-46e2-83c5-4c64958aa2c1</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>140e79bb-6b95-474c-9d11-4e61f2df0038</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>63883c71-d96f-4b05-a03c-e0b4ae4d266a</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>94b6ab22-f2be-4c5b-b7eb-af6b45d5471b</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>abee39fd-7fc4-43ed-9287-3c426e63d5c2</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>efaf836d-75f1-45b3-af63-c3576974255c</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>8f7051f4-e395-4bb3-a9d0-bd2c22d32946</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>3f4801e4-51f2-40d3-971c-1b0fe7e80082</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>8d5e2680-9567-4228-bce5-9811cd682277</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>78da126e-87fe-42f3-aa2a-cd2674a9e94e</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>dd8799e9-5bf0-4c70-8269-8c447dadd595</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>6ca5102e-df11-482d-a0a5-a121bebc6c4d</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>c934c9f6-3892-4e9c-b7db-c42c4f940315</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>c797a0d9-6a32-450b-ba5d-eac3eb657bb7</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>654d87f2-da31-427c-8346-85498caa0f77</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>b42999bc-00e4-4096-8097-273fa87ff76f</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>9ee74cae-e6ec-4ecc-aba8-c2741a24983e</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="25 LEDs"/>
+      <property name="Sheetfile" value="25LEDs.kicad_sch"/>
+      <sheetpath names="/25 LEDs/" tstamps="/ccbebaa1-fdbb-4835-acd7-d0366705395d/"/>
+      <tstamps>77ec97f8-b088-4985-8392-00261c5ca42f</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>b3da9a4d-ea52-4d92-ad06-f76406349a0d</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>0efe8005-26bd-4e4e-96fe-9115cc339384</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>46d702f2-7856-4e6f-aed3-cdb1acd09c63</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>a2d81a82-cf5a-45af-9d23-989f17a5fc5c</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>c75c00d7-7923-4c57-8bb2-dec3247f2b98</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>fce74583-d43e-471f-bdcd-c363545f4ae9</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>1876d879-5bc8-4dc6-8207-1495c8e91a84</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>e73d18cc-909e-40b9-9d31-def95fcb024e</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>965fd2bd-b57b-487f-9feb-a46b9d5b6e71</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>ca8a5b10-bb49-45a7-a36a-c51090551bee</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>97b40d7d-a1f4-4a6b-9abe-f3b425f2f83e</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>9c36f43e-e732-4526-8ad7-477c0d24e3e1</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>61ee7a28-7cdf-4df3-8ed5-fb152e0f37bc</tstamps>
+    </comp>
+    <comp ref="C39">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>3c9a391f-05d5-4d5a-b358-235ed50a31b2</tstamps>
+    </comp>
+    <comp ref="C40">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>b1aee2df-823b-4a8e-8a4e-4ce9e806d61c</tstamps>
+    </comp>
+    <comp ref="C41">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>2421e870-8f60-4a1f-8fd0-2590df4f6708</tstamps>
+    </comp>
+    <comp ref="C42">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>26cdb0c9-1243-4498-8e9a-c54925a37e16</tstamps>
+    </comp>
+    <comp ref="C43">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>22ee3647-5a0e-4488-b63b-6908f70905b5</tstamps>
+    </comp>
+    <comp ref="C44">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>704adc28-6cdd-4c41-b3db-ea95f83dafaf</tstamps>
+    </comp>
+    <comp ref="C45">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>e2a3a49b-9ea1-4f38-8318-b983620edd60</tstamps>
+    </comp>
+    <comp ref="C46">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>61fa8675-3914-417b-9dba-12003cbe7764</tstamps>
+    </comp>
+    <comp ref="C47">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>823e3be2-16db-4372-94b2-26d73632ea20</tstamps>
+    </comp>
+    <comp ref="C48">
+      <value>~</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>459f4d33-53cd-4d6f-9308-99fab1f27a63</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>e10465a8-3e53-424c-9a83-fe69c334fa56</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>881f45b6-c057-4583-92fb-491dc62b7d93</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>3ffd0d3e-f947-43bf-b077-9045e60556dc</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>d312e501-c88c-4fa0-9a5d-178d9d7f8c25</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>c62da59f-d516-49e6-b66b-7370d9ff7893</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>637f4fa1-0d60-416a-86ea-34a33ffe2eda</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>5d3ce785-649d-4b5c-b7d0-5ba39142f435</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>71984cbf-d1fd-41ef-a067-877b890531ef</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>9a60c217-a80d-4d7b-85ab-39d351f57d81</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>a889cf1e-57da-44c0-a465-bfb3f8b0e1f2</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>838d7fc9-daf9-42b1-9b19-77b32cdcd8b4</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>363e21dd-adcb-4440-be2d-b1cdc34086b3</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>ff044f4d-c6e5-4fc9-aa42-9a9ee7ba0c0b</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>6aa86802-885c-4d53-bc7f-4778a1a97a40</tstamps>
+    </comp>
+    <comp ref="D40">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>0e3fbf18-e3a0-48b9-acd5-919402f064f2</tstamps>
+    </comp>
+    <comp ref="D41">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>de01af71-7c2f-410d-9d23-d8ba75bb3077</tstamps>
+    </comp>
+    <comp ref="D42">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>4f11c520-3f77-412d-b668-76085198a47c</tstamps>
+    </comp>
+    <comp ref="D43">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>eda5fbca-a218-43d2-89f4-c7639a710e05</tstamps>
+    </comp>
+    <comp ref="D44">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>91a5c946-0d3d-44fb-bc79-518a785eb68f</tstamps>
+    </comp>
+    <comp ref="D45">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>28a698e3-6f1b-4720-a5d8-a84d8efecf80</tstamps>
+    </comp>
+    <comp ref="D46">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>1d3748cc-9b4c-4046-aa80-9a53abb35e9b</tstamps>
+    </comp>
+    <comp ref="D47">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>0a2d4396-170a-48f0-88aa-5a07e44e1b0f</tstamps>
+    </comp>
+    <comp ref="D48">
+      <value>~</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value="23 LEDs1"/>
+      <property name="Sheetfile" value="23LEDs.kicad_sch"/>
+      <sheetpath names="/23 LEDs1/" tstamps="/c5a988dc-ebfa-47a6-a946-5e2f2a6a28fd/"/>
+      <tstamps>f19cf11e-f032-4b17-bc83-281a5e1e11d0</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LED" part="WS2812B">
+      <description>RGB LED with integrated controller</description>
+      <docs>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</docs>
+      <footprints>
+        <fp>LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">WS2812B</field>
+        <field name="Footprint">LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="LED">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/LED.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="C39" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C40" pin="2" pintype="passive"/>
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="C42" pin="2" pintype="passive"/>
+      <node ref="C43" pin="2" pintype="passive"/>
+      <node ref="C44" pin="2" pintype="passive"/>
+      <node ref="C45" pin="2" pintype="passive"/>
+      <node ref="C46" pin="2" pintype="passive"/>
+      <node ref="C47" pin="2" pintype="passive"/>
+      <node ref="C48" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D10" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D11" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D12" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D13" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D14" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D15" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D16" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D17" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D18" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D19" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D2" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D20" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D21" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D22" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D23" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D24" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D25" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D26" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D27" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D28" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D29" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D3" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D30" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D31" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D32" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D33" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D34" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D35" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D36" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D37" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D38" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D39" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D4" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D40" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D41" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D42" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D43" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D44" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D45" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D46" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D47" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D48" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D5" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D6" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D7" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D8" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D9" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="2" name="/23 LEDs1/DIN">
+      <node ref="D25" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D26" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="3" name="/23 LEDs1/DOUT">
+      <node ref="D48" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="4" name="/25 LEDs/DIN">
+      <node ref="D1" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="5" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="C39" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C40" pin="1" pintype="passive"/>
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="C42" pin="1" pintype="passive"/>
+      <node ref="C43" pin="1" pintype="passive"/>
+      <node ref="C44" pin="1" pintype="passive"/>
+      <node ref="C45" pin="1" pintype="passive"/>
+      <node ref="C46" pin="1" pintype="passive"/>
+      <node ref="C47" pin="1" pintype="passive"/>
+      <node ref="C48" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D10" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D11" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D12" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D13" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D14" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D15" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D16" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D17" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D18" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D19" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D2" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D20" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D21" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D22" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D23" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D24" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D25" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D26" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D27" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D28" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D29" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D3" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D30" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D31" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D32" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D33" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D34" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D35" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D36" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D37" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D38" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D39" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D4" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D40" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D41" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D42" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D43" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D44" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D45" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D46" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D47" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D48" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D5" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D6" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D7" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D8" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D9" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D2" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="7" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D3" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D4" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D5" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D6" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D7" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D8" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D9" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D11" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(D10-Pad4)">
+      <node ref="D10" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="D9" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="16" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D12" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="17" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D13" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D14" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D15" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D16" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="21" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D17" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D18" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D19" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D20" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="25" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D21" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="26" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D22" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D23" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D24" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="29" name="Net-(D24-Pad2)">
+      <node ref="D24" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D25" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="30" name="Net-(D26-Pad2)">
+      <node ref="D26" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D27" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="31" name="Net-(D27-Pad2)">
+      <node ref="D27" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D28" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="32" name="Net-(D28-Pad2)">
+      <node ref="D28" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D29" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(D29-Pad2)">
+      <node ref="D29" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D30" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(D30-Pad2)">
+      <node ref="D30" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D31" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="35" name="Net-(D31-Pad2)">
+      <node ref="D31" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D32" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="36" name="Net-(D32-Pad2)">
+      <node ref="D32" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D33" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="37" name="Net-(D33-Pad2)">
+      <node ref="D33" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D34" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="38" name="Net-(D34-Pad2)">
+      <node ref="D34" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D35" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(D35-Pad2)">
+      <node ref="D35" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D36" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="40" name="Net-(D36-Pad2)">
+      <node ref="D36" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D37" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="41" name="Net-(D37-Pad2)">
+      <node ref="D37" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D38" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="42" name="Net-(D38-Pad2)">
+      <node ref="D38" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D39" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="43" name="Net-(D39-Pad2)">
+      <node ref="D39" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D40" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="44" name="Net-(D40-Pad2)">
+      <node ref="D40" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D41" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="45" name="Net-(D41-Pad2)">
+      <node ref="D41" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D42" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="46" name="Net-(D42-Pad2)">
+      <node ref="D42" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D43" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="47" name="Net-(D43-Pad2)">
+      <node ref="D43" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D44" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="48" name="Net-(D44-Pad2)">
+      <node ref="D44" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D45" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="49" name="Net-(D45-Pad2)">
+      <node ref="D45" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D46" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="50" name="Net-(D46-Pad2)">
+      <node ref="D46" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D47" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="51" name="Net-(D47-Pad2)">
+      <node ref="D47" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D48" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+  </nets>
+</export>
